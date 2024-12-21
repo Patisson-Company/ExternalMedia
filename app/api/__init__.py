@@ -1,1 +1,1 @@
-from api.routers import router
+from api.routers import router  # noqa F401
